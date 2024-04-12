@@ -1,0 +1,20 @@
+.teste{
+    
+    display: flex;
+}
+div{
+    background-color: rgb(255, 255, 255);
+    
+}
+.nome{
+    height:100px;
+    width:100px;
+}
+.teste:hover{
+}
+.tam:hover{
+    height: auto;
+    width: 100%;
+    border: 5px solid rgb(255, 255, 255);
+    border: 5px solid rgb(0, 0, 0);
+}
