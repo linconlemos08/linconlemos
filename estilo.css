@@ -13,8 +13,8 @@ div{
 .teste:hover{
 }
 .tam:hover{
-    height: auto;
-    width: 100%;
+    height: 100px;
+    width: 100px;
     border: 5px solid rgb(255, 255, 255);
     border: 5px solid rgb(0, 0, 0);
 }
