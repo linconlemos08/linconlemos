@@ -6,10 +6,6 @@
     text-align: center;
     display: flex;
 }
-div{
-    background-color: rgb(255, 255, 255);
-    
-}
 .nome{
     height:100px;
     width:100px;
@@ -23,15 +19,25 @@ div{
 }
 
 .img-todos:hover{
-    
     text-align: center;
-    border: 5px solid rgb(255, 255, 255);
-    border: 5px solid rgb(0, 0, 0);
+
 }
 .img-todos{
     text-align: center;
+    background-image: url("todos.jfif");
+
 }
 .height{
     height: 80px;
+}
+
+h1{
+    text-align: center;
+}
+p1{
+    text-align: center;
+}
+.adi{
+    background-image: url("adner.jpeg");
 }
 
